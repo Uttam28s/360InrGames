@@ -24,7 +24,8 @@ const Navbar = () => {
     const navLinks = [
         { name: 'Home', path: '/' },
         { name: 'About', path: '/about' },
-        { name: 'Features', path: '/#features' }, // Hash link for homepage section
+        { name: 'Disclaimer', path: '/disclaimer' },
+        { name: 'Privacy', path: '/privacy' },
     ];
 
     return (

@@ -9,7 +9,6 @@ const Home = () => {
         <div className="min-h-screen">
             <Hero />
             <Gallery />
-            <Features />
             <Installation />
 
             {/* FAQ / Trust Strip */}
