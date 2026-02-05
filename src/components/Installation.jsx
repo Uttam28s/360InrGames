@@ -87,7 +87,7 @@ const Installation = () => {
                                 </div>
 
                                 <a
-                                    href="https://invite.360inr.games/?code=RFKJ1ZS"
+                                    href="https://invite.360inr.games/?code=G80J3VS"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="block w-full bg-[#FFD700] text-[#120202] font-bold text-center py-4 rounded-xl hover:bg-white transition-colors"

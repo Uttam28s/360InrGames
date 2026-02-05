@@ -48,7 +48,7 @@ const Navbar = () => {
                         </Link>
                     ))}
                     <a
-                        href="https://invite.360inr.games/?code=RFKJ1ZS"
+                        href="https://invite.360inr.games/?code=G80J3VS"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-gradient-to-r from-[#FFD700] to-[#FF0000] text-white px-6 py-2 rounded-full font-bold hover:shadow-[0_0_15px_rgba(255,215,0,0.5)] transition-shadow flex items-center gap-2"
@@ -86,7 +86,7 @@ const Navbar = () => {
                                 </Link>
                             ))}
                             <a
-                                href="https://invite.360inr.games/?code=RFKJ1ZS"
+                                href="https://invite.360inr.games/?code=G80J3VS"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-[#FFD700] text-[#120202] text-center py-3 rounded-lg font-bold mt-2"

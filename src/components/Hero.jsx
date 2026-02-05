@@ -33,7 +33,7 @@ const Hero = () => {
 
                     <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
                         <a
-                            href="https://invite.360inr.games/?code=RFKJ1ZS"
+                            href="https://invite.360inr.games/?code=G80J3VS"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="group relative bg-gradient-to-r from-[#FFD700] to-[#FF0000] text-white px-8 py-4 rounded-full font-bold text-lg hover:shadow-[0_0_20px_rgba(255,215,0,0.6)] transition-all flex items-center justify-center gap-2 overflow-hidden"
