@@ -3,6 +3,7 @@ import Navbar from './Navbar';
 import Footer from './Footer';
 import { useLocation } from 'react-router-dom';
 import { useEffect } from 'react';
+import { Analytics } from "@vercel/analytics/next"
 
 const Layout = ({ children }) => {
     const { pathname } = useLocation();
@@ -18,6 +19,7 @@ const Layout = ({ children }) => {
                 {children}
             </main>
             <Footer />
+            <Analytics />
         </div>
     );
 };
